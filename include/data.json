@@ -1,0 +1,8 @@
+{
+    "timestamp": "2024-11-20 01:49:35",
+    "id_turbina": 42,
+    "velocidade_vento_mps": 9.42,
+    "direcao_vento_graus": 58,
+    "produz_energia_kw": 752.43,
+    "temperatura": 21.08
+}
